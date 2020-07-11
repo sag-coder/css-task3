@@ -44,7 +44,8 @@
 	color: white;
 }
 #box1{
-	height: 800px;
+	height: 700px;
+	overflow-y: scroll;
 	display: inline-block;
 	margin-left: 40px;
 
