@@ -7,6 +7,8 @@
 .navbar{
 	
 	height: 80px;
+	border-bottom: 2px solid #2ECC71
+
 	
 }
 
@@ -25,9 +27,11 @@
 
 
 .menu-bar{
+	position: relative;
 	padding-top: 10px;
 	height: 30px;
-	box-shadow: 2px 0px 10px #000000;
+	box-shadow: 1px 0px 20px #000000;
+	
 
 
 
@@ -53,6 +57,7 @@
 	
 	width: 70%;
 	background-color: white;
+
 }
 #box1 p{
 	text-align: justify;
@@ -85,7 +90,9 @@
 .margin20px{
 	margin: 20px;
 }
-/*.contanet{
-	position: absolute;
+/*.contaner{
+	
+	
 
 }*/
+
